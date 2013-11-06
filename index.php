@@ -1,2 +1,2 @@
 <?php
-	phpenfo();
+	phpinfo();
